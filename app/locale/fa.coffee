@@ -863,8 +863,8 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 
 #  buy_gems:
 #    few_gems: "A few gems"
-#    pile_gems: "Pile of gems"
-#    chest_gems: "Chest of gems"
+#    pile_gems: "مقدار زیادی از الماس ها"
+#    chest_gems: "صندوق الماس ها"
 #    purchasing: "Purchasing..."
 #    declined: "Your card was declined"
 #    retrying: "Server error, retrying."
